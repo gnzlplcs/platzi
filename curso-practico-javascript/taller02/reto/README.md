@@ -2,15 +2,15 @@
 
 ## Tabla de Contenido
 
-[Objetivo](##Objetivo)
+[Objetivo](#objetivo)
 
-[Resolución](##Resolución)
+[Resolución](#resolución)
 
-+ [Input](###Input)
++ [Input](#input)
 
-+ [Process](###Process)
++ [Process](#process)
 
-+ [Output](###Output)
++ [Output](#output)
 
 ## Objetivo
 
